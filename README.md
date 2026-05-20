@@ -17,9 +17,20 @@ O **Bar Três Irmãos** é uma experiência imersiva em Realidade Virtual (VR) p
 
 ## 🚀 Funcionalidades e Objetivos
 
-* **Ambiente de Networking:** Um espaço virtual informal ideal para troca de contactos, conversas profissionais e conexões dinâmicas.
-* **Interação Social Sem Fronteiras:** Conecte-se com pessoas de qualquer lugar do mundo em tempo real, simulando a atmosfera acolhedora de um bar tradicional.
-* **Imersão VR:** Cenário tridimensional planejado para proporcionar uma sensação real de presença e engajamento.
+O projeto **Bar Três Irmãos** foi desenvolvido com o objetivo de criar um ambiente social imersivo dentro do Metaverso, utilizando tecnologias de Realidade Virtual (VR).
+
+A proposta representa principalmente as áreas de:
+
+- Comunicação
+- Entretenimento
+- Interação social
+- Networking virtual
+
+O ambiente busca reduzir barreiras geográficas, permitindo que pessoas possam interagir em tempo real dentro de um espaço virtual semelhante a um bar tradicional.
+
+O projeto demonstra como o Metaverso pode ser utilizado para aproximar usuários por meio de experiências imersivas, promovendo conversas, conexões sociais e entretenimento digital em um ambiente tridimensional.
+
+Além disso, o projeto explora a utilização de interações em VR para tornar a experiência mais natural e envolvente, permitindo que usuários manipulem objetos e explorem o cenário de maneira intuitiva.
 
 ---
 
